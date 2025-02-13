@@ -1,1 +1,1 @@
-50 projects from the udemy
+50 javascript projects
